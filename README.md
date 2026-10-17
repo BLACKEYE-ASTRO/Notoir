@@ -1,6 +1,6 @@
-# Paper 📝
+# Notoir 📝
 
-**Paper** is a modern, minimal note-taking application inspired by Notion. It helps you create, organize, and manage your notes in a clean workspace designed for focused writing and productivity.
+**Notoir** is a modern, minimal note-taking application inspired by Notion. It helps you create, organize, and manage your notes in a clean workspace designed for focused writing and productivity.
 
 ## ✨ Features
 
@@ -34,8 +34,8 @@ Make sure you have installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/BLACKEYE-ASTRO/paper.git
-cd paper
+git clone https://github.com/BLACKEYE-ASTRO/Notoir.git
+cd Notoir
 ```
 
 ### 2. Install dependencies
@@ -67,7 +67,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📁 Project Structure
 
 ```text
-paper/
+Notoir/
 ├── app/                 # Next.js application routes
 ├── components/          # Reusable UI components
 ├── convex/              # Convex schema, queries and mutations
@@ -118,4 +118,4 @@ This project is available under the MIT License, unless otherwise specified.
 
 Built with ❤️ by **Akash Shingare**.
 
-[GitHub Repository](https://github.com/BLACKEYE-ASTRO/paper)
+[GitHub Repository](https://github.com/BLACKEYE-ASTRO/Notoir)

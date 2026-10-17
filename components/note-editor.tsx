@@ -359,7 +359,7 @@ export default function NoteEditor({
           href="/"
           className="text-sm font-semibold tracking-tight text-zinc-800"
         >
-          Paper<span className="text-amber-600">.</span>
+          Notoir<span className="text-amber-600">.</span>
         </a>
 
         <div className="flex items-center gap-3 text-xs text-zinc-400">

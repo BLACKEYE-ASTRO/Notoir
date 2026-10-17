@@ -3,7 +3,7 @@
   import "./globals.css";
 
   export const metadata: Metadata = {
-    title: "Paper — Your personal workspace",
+    title: "Notoir — Your personal workspace",
     description: "A simple, Notion-inspired rich-text notes app.",
   };
 

@@ -83,7 +83,7 @@ export default function Home() {
     <main className="min-h-screen bg-white text-zinc-900">
       <nav className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6">
         <a href="/" className="text-xl font-bold tracking-tight">
-          Paper<span className="text-amber-600">.</span>
+          Notoir<span className="text-amber-600">.</span>
         </a>
         <span className="text-sm text-zinc-400">
           Your personal workspace
